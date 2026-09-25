@@ -12,9 +12,14 @@ I'm a recent IT graduate who enjoys building **full-stack applications, AI-power
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,python,fastapi,postgres,mongodb,firebase&perline=6" />
 </p>
 
-**Frontend:** React, Next.js, TypeScript, JavaScript
-**Backend:** Node.js, Express.js, FastAPI
-**Databases & Services:** PostgreSQL, MongoDB, Firebase
+### Frontend
+React • Next.js • TypeScript • JavaScript
+
+### Backend
+Node.js • Express.js • FastAPI
+
+### Databases & Services
+PostgreSQL • MongoDB • Firebase
 
 ---
 
