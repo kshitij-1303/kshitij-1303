@@ -2,9 +2,7 @@
 
 ### Full-Stack Developer | AI & Automation Enthusiast
 
-I'm a recent IT graduate who enjoys building **full-stack applications, automation platforms, and AI-powered products**.
-
-I like turning ideas into working products and exploring technologies across the **frontend, backend, databases, and AI** ecosystem.
+I'm a recent IT graduate who enjoys building **full-stack applications, AI-powered products, and automation tools**.
 
 ---
 
@@ -16,31 +14,18 @@ I like turning ideas into working products and exploring technologies across the
 
 **Frontend:** React, Next.js, TypeScript, JavaScript
 **Backend:** Node.js, Express.js, FastAPI
-**Databases:** PostgreSQL, MongoDB, Firebase
+**Databases & Services:** PostgreSQL, MongoDB, Firebase
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Currently Working On
 
-### 🤖 AI Workflow Builder
-
-**Next.js • TypeScript • FastAPI • PostgreSQL**
-
-A multi-tenant no-code workflow automation platform for creating and executing automated workflows.
-
-* 🔐 Role-based access control
-* 🏢 Multi-tenant architecture
-* ⚡ Workflow execution engine
-* 🔗 Webhooks
-* 🤖 AI & RAG integration
-* 🗄️ PostgreSQL backend
+* 🧠 **DSA & Problem Solving** — Practicing LeetCode and NeetCode
+* 🤖 **AI Workflow Builder** — Building a workflow automation platform with AI capabilities
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in **interesting projects, open-source contributions, and opportunities to build things with great people.**
 
 <p align="center">
-  <i>Build. Break. Learn. Repeat. 🚀</i>
+  <i>Let's Connect</i>
 </p>
