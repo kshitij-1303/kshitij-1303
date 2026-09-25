@@ -37,15 +37,6 @@ A multi-tenant no-code workflow automation platform for creating and executing a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in **interesting projects, open-source contributions, and opportunities to build things with great people.**
