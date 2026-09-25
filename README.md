@@ -30,7 +30,6 @@ PostgreSQL • MongoDB • Firebase
 
 ---
 
+## 🤝 Let's Connect
 
-<p align="center">
-  <i>Let's Connect</i>
-</p>
+📧 **Email:** kshitijdeshpande9325@gmail.com
